@@ -1,0 +1,10 @@
+<enemy>
+60
+Goblin.png
+Goblin,10,1,5,5,2,1
+50,Goblin Sword
+30,Goblin Outfit
+<enemy>
+40
+Wolf.png
+Wolf,20,2,10,10,4,2

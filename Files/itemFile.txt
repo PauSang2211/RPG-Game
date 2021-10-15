@@ -1,0 +1,9 @@
+<weapon>
+Wooden Stick,1,1,0,1
+Goblin Sword,4,2,0,5
+<armor>
+Casual Outfit,0,1,0,1
+Goblin Outfit,0,3,0,5
+<consumable>
+Small HP Potion,0,0,10,5
+Large HP Potion,0,0,75,20

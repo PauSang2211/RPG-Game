@@ -1,0 +1,8 @@
+Tommy Trojan,20,1,0,0,2,1
+Tommy_Trojan.png
+<weapon>
+Wooden Stick,1
+<armor>
+Casual Outfit,1
+<consumable>
+Small HP Potion,1
