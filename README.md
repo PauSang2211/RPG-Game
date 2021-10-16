@@ -2,10 +2,10 @@
 This was a school final project for an introduction course to Python. 
 
 # Goals:
-To utilize basic Python commands and data structures <br />
-To understand object-oriented programming with Python <br />
-To understand GUI systems in Python <br />
-To understand File I/O operations 
+* To utilize basic Python commands and data structures <br />
+* To understand object-oriented programming with Python <br />
+* To understand GUI systems in Python <br />
+* To understand File I/O operations 
 
 # Overview:
 This is an RPG game where you fight monsters, level up, and obtain items from enemies. <br />
